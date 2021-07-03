@@ -15,4 +15,56 @@
 input
 {
     background: grey
+}.campus{
+    border: 1px solid skyblue;
+    float: 0;
+    margin-bottom: 50px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.campus img{
+    width:100%;
+}
+.campus hr{
+    width: 250px;
+}
+
+.campus h5, .campus p{
+margin-left: 20px;
+}
+
+
+#ach{
+    font-size: 25px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+ i{
+    float: right;}
+    #contact{
+        margin-top:50px;
+    }
+#ach p{
+    margin-bottom: 100px;
+}
+
+#headcon{
+    position: fixed;
+}
+.env1{
+    margin-top: 15px;
+    border-radius: 50px;
+    margin-bottom: 50px;
+
+
+}
+.env1 h3{
+    padding: 10px;
+    border-bottom: 3px solid skyblue ;
+}
+.env1 p{
+margin: 10px;
+font-size: 17px;
 }
